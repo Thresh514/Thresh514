@@ -18,7 +18,7 @@
   Next.js + Express.js + Redis + Socket.IO; scaled to thousands of concurrent users.  
   Deployed on self-managed Linux server with Nginx + systemd + Certbot; conducted flood testing and optimized pub/sub.  
 
-- [**BioByte – Educational Resource Integration Platform**](https://www.biobyte.shop/) 
+- [**BioByte – Educational Resource Integration Platform**](http://biobyteshop.vercel.app/) 
   Full-stack Next.js + TailwindCSS + MySQL on Alibaba Cloud.  
   Includes RAG-based past paper retrieval (FAISS vector search) and AI tutor for real-time Q&A.  
 
